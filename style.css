@@ -2,11 +2,9 @@ body{
   margin:0;
   padding:0;
   text-align:center;
-  font-family:Verdana,Geneva,Arial,sans-serif;
 }
 h1{
   padding-top:4em;
-  font-family:sans-serif;
 }
 p{
   margin:2em 0;
@@ -14,7 +12,4 @@ p{
 img{
   width:40em;
   max-width:66%
-}
-em {
-    text-decoration: underline overline;
 }
