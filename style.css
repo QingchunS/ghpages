@@ -1,8 +1,3 @@
-@font-face{
-    font-family:Emblema One;
-    src:url("http://wickedlysmart.com/hfhtmlcss/chapter8/journal/Emblema One-Regular.woff") ，
-        url("http://wickedlysmart.com/hfhtmlcss/chapter8/journal/Emblema One-Regular.ttf")；
-}
 body{
   margin:0;
   padding:0;
@@ -11,7 +6,7 @@ body{
 }
 h1{
   padding-top:4em;
-  font-family:"Emblema One",sans-serif;
+  font-family:sans-serif;
 }
 p{
   margin:2em 0;
